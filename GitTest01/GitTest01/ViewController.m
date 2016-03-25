@@ -25,6 +25,8 @@
     
     NSLog(@"孝显赫哈哈哈");
     
+    NSLog(@"1234");
+    
 }
 
 - (void)didReceiveMemoryWarning {
