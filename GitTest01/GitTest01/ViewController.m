@@ -17,21 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    NSLog(@"我是皇帝");
-    
-    NSLog(@"万古长青,分支加入");
-    
-    NSLog(@"一统江湖");
-    
-    NSLog(@"孝显赫哈哈哈");
-    
-
-    NSLog(@"gauochong");
-
-    NSLog(@"1234");
-
-    
-    NSLog(@"kljashdkljashdljkahs");
+    NSLog(@"这他妈是最新的版本了");
     
     NSLog(@"最新修改");
     
