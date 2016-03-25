@@ -26,7 +26,7 @@
     NSLog(@"孝显赫哈哈哈");
     
 
-    NSLog(@"345465");
+    NSLog(@"gauochong");
 
     NSLog(@"1234");
 
