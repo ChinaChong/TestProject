@@ -1,7 +1,0 @@
-*~
-.DS_Store
-
-*.xcworkspace
-xcuserdata
-Podfile.lock
-Pods
