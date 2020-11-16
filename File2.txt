@@ -1,1 +1,1 @@
-This is the file2.
+File2 is AppLovinSDK.

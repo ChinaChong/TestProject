@@ -1,1 +1,1 @@
-This is the file3.
+File3 is InMobiSDK.
