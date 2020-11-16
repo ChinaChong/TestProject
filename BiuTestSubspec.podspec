@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "BiuTestSubspec"
-  spec.version      = "1.0.3"
+  spec.version      = "1.0.5"
   spec.summary      = "A CocoaPods Subspec Test Pod Project."
   spec.homepage     = "https://github.com/ChinaChong/TestProject"
   spec.license      = "MIT"
